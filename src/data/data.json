@@ -1,0 +1,101 @@
+{
+    "schools": [ 
+      {
+        "id": "1",
+        "name": "Green Valley High School",
+        "image": "https://www.schooldekho.org/storage/logo//r96g3kgt834owoogk44o8800kocwsow.png",
+        "board": "CBSE",
+        "medium": "English",
+        "gender": "Boys",
+        "distance": "6 KM",
+        "address": "Indore",
+        "slug":"green-valley-high-school",
+        "schoolDetials":{        
+          "view":"2287 Views",
+           "ownership": "Private",
+           "AdmissionCriteria" :["Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above"]
+        }
+      },
+      {
+        "id": "2",
+        "name": "Sunrise Public School",
+        "image": "https://www.schooldekho.org/storage/logo//p9xajdbc6cggsk8gs4g8s84ccgk4s88.png",
+        "board": "MP",
+        "medium": "Hindi",
+        "gender": "Girls",
+        "distance": "3 KM",
+        "address": "Bhopal",
+        "slug":"sunrise-public-school",
+        "schoolDetials":{        
+          "view":"2287 Views",
+           "ownership": "Private",
+           "AdmissionCriteria" :["Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above"]
+        }
+      },
+      {
+        "id": "3",
+        "name": "St. John's School",
+        "image": "https://www.schooldekho.org/storage/logo//9lzcpglghqscwcckgoow48o8sg8c08g.jpg",
+        "board": "UP",
+        "medium": "English",
+        "gender": "Boys",
+        "distance": "32 KM",
+        "address": "Devas",
+        "slug":"st-Johns-school",
+        "schoolDetials":{        
+          "view":"2287 Views",
+           "ownership": "Private",
+           "AdmissionCriteria" :["Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above"]
+        }
+      },
+      {
+        "id": "4",
+        "name": "Little Flower Convent",
+        "image": "https://www.schooldekho.org/storage/logo//dhb8n3284z4sowwgw0oww0gww0gokcs.jpg",
+        "board": "UP",
+        "medium": "Urdu",
+        "gender": "Both",
+        "distance": "8 KM",
+        "address": "Jaipur",
+        "slug":"little-flower-convent",
+        "schoolDetials":{        
+          "view":"2287 Views",
+           "ownership": "Private",
+           "AdmissionCriteria" :["Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above"]
+        }
+      },
+      {
+        "id": "5",
+        "name": "Mahatma Gandhi Vidyalaya",
+        "image": "https://www.schooldekho.org/storage/logo//n4ab6qm6qnksksk4s484ccc0gws000o.jpg",
+        "board": "CBSE",
+        "medium": "Hindi",
+        "gender": "Both",
+        "distance": "2 KM",
+        "address": "Nagpur",
+        "slug":"mahatma-gandhi-vidyalaya",
+        "schoolDetials":{        
+          "view":"2287 Views",
+           "ownership": "Private",
+           "AdmissionCriteria" :["Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above"]
+        }
+      },
+      {
+        "id": "6",
+        "name": "St. Xavier's Public School",
+        "image": "https://www.schooldekho.org/storage/logo//4kzdse0la64gosgskkk00csk08wooss.jpg",
+        "board": "ICSE",
+        "medium": "English",
+        "gender": "Both",
+        "distance": "1 KM",
+        "address": "Mumbai",
+        "slug":"st-xaviers-public-school",
+        "schoolDetials":{        
+          "view":"2287 Views",
+           "ownership": "Private",
+           "AdmissionCriteria" :["Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above","Pre Nursery: years & above"]
+        }
+      }
+    ]
+  }
+  
